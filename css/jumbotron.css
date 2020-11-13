@@ -1,0 +1,8 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+/*Nav Bar */
+.bg-custom-2 {
+  background-image: linear-gradient(60deg, rgba(6,58,159,1) 35%, rgba(9,207,141,1) 100%);
+  }
